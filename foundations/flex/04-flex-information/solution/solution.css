@@ -25,7 +25,7 @@ img {
   background: #eee;
 }
 
-/* SOLUTION */
+
 
 body {
   text-align: center;
@@ -40,7 +40,7 @@ body {
   justify-content: center;
   gap: 52px;
 }
-
+/* SOLUTION 
 .info {
   max-width: 200px;
 }
